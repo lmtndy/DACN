@@ -1,0 +1,6 @@
+train: D:/Study/DACN/data/data_img/train
+val: D:/Study/DACN/data/data_img/valid
+test: D:/Study/DACN/data/data_img/test
+
+nc: 2
+names: ['smoke', 'fire']
